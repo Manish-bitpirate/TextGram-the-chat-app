@@ -5,6 +5,7 @@ To run it in local host use commands :
 
 =>npm install
 
-=>npm run dev
+=>npm start
 
 and that's it, Tada!✨✨✨
+Hosted on => https://textgram-md.herokuapp.com/
